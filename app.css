@@ -1,0 +1,30 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+}
+
+input[name="new-task"] {
+    font-size: 14px;
+}
+
+li {
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+button {
+    margin-left: 10px;
+}
+
+.important {
+    font-weight: bold;
+}
+
+.strikethrough {
+    text-decoration: line-through;
+}
